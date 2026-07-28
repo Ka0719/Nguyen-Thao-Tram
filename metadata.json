@@ -1,0 +1,6 @@
+{
+  "name": "Đủ - MindSpace THPT",
+  "description": "Ứng dụng 'Giải độc' Tâm lý & Năng suất Lành mạnh dành cho học sinh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
